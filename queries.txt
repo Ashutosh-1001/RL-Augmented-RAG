@@ -1,0 +1,8 @@
+What is a large language model?
+Explain the transformer architecture in LLMs.
+Name some popular LLMs.
+Why is fine-tuning important for LLMs?
+What is zero-shot learning in LLMs?
+How does tokenization work?
+What are common challenges in training LLMs?
+

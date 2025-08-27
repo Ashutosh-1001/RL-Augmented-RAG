@@ -1,0 +1,8 @@
+Large Language Models are neural networks trained on huge datasets to understand and generate human-like text for various applications.
+Transformers leverage self-attention to analyze word importance in context for natural language tasks.
+Popular LLMs include GPT, PaLM, and LLaMA, which differ in size and training data.
+Fine-tuning helps adapt a general LLM to excel in specific domains, improving accuracy and usefulness.
+Zero-shot learning allows models to perform new tasks by interpreting prompts without explicit training examples.
+Tokenization converts text into smaller units such as words or subwords that the model can process.
+Training LLMs is challenging due to large computational needs and the requirement for extensive data.
+

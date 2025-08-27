@@ -1,0 +1,7 @@
+torch
+faiss-cpu
+langchain
+langchain-groq
+langchain-community
+sentence-transformers
+numpy

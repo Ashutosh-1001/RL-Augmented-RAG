@@ -1,1 +1,3 @@
 # RL-Augmented-RAG
+
+This project builds a smart question-answering system that uses Reinforcement Learning to improve how it finds and ranks information. It searches for important document pieces based on meaning and uses a policy network to pick the best ones. Then, it uses powerful language models through ChatGroq to give clear and relevant answers. The system learns by getting rewards when its answers are good and cover diverse information. It is designed in parts so training and testing can happen separately, and data like questions and answers can be easily updated from files. Overall, this helps the system give better and more accurate answers for complex questions.
